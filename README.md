@@ -35,7 +35,12 @@
 
 ### ML/DS
 
-![jupyter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg) ![numpy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg) ![pytorch](https://cdn.simpleicons.org/pytorch) ![tensorflow](https://cdn.simpleicons.org/tensorflow) ![pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg) ![scikit-learn](https://skillicons.dev/icons?i=scikitlearn)
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" style="display:inline;margin-right:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" style="display:inline;margin-right:10px"/>
+  <img src="https://cdn.simpleicons.org/pytorch" alt="pytorch" width="40" height="40" style="display:inline;margin-right:10px"/>
+  <img src="https://cdn.simpleicons.org/tensorflow" alt="tensorflow" width="40" height="40" style="display:inline;margin-right:10px"/>
+</div>
 
 ### DevOps & Tools
 <p>
