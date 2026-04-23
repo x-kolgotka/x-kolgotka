@@ -35,12 +35,16 @@
 
 ### ML/DS
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=scikitlearn" />
-  <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit-learn" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/pytorch" alt="pytorch" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/tensorflow" alt="tensorflow" width="40" height="40"/>
+  </p>
 </p>
 
 ### DevOps & Tools
